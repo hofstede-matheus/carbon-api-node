@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vscode/
+out.csv
+
+lib/
+carbon_sh.png
